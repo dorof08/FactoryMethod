@@ -1,0 +1,11 @@
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ivand\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
